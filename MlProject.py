@@ -56,7 +56,6 @@ print(data)
 
 plotRawData(data)
 
-
 # forecasting
 # dfTrain=data[['Date','Close']]
 # dfTrain=dfTrain.rename(columns={'Date':'ds','Close':'y'})
